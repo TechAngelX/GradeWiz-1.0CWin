@@ -9,6 +9,13 @@ GradeWiz is a simple and intuitive c# application for Windows that compiles as a
 <img src="images/screenshot3.png" style="border: 5px solid #ccc;">
 <img src="images/screenshot4.png" style="border: 5px solid #ccc;">
 
+![Screenshot 1](images/screenshot1.png)
+
+![Screenshot 1](images/screenshot1.png)
+![Screenshot 2](images/screenshot2.png)
+![Screenshot 3](images/screenshot3.png) 
+![Screenshot 4](images/screenshot4.png)
+
 
 
 🚀 Features
