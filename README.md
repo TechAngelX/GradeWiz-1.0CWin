@@ -74,9 +74,9 @@ Creator of GradeWiz
 
 
 ## Note
-This is a basic demonstration project. For production use, consider additional security measures.
+This is a basic demonstration project and provided 'as is. For production use, consider additional security measures.
 
-If you enjoyed this file and found it useful, please feel free to leave a Bitcoin donation and buy us a coffee:
+If you enjoyed this project and found it useful, please feel free to leave a Bitcoin donation and buy us a coffee:
 
 <div style="text-align: center;">
     <img src="images/btcLogo.png" alt="Bitcoin Logo" style="border: 5px solid #ccc;">
