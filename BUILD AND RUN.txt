@@ -1,0 +1,6 @@
+cd "C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion"
+
+
+dotnet build
+dotnet run
+ 
