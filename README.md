@@ -58,7 +58,7 @@ Swing: Java GUI toolkit used for creating the graphical interface.
 We welcome contributions from the community! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 📄 License
-This project is licensed under the MIT License.
+Licensed under the GNU General Public License v3.0
 
 🧑‍💻 Author
 Ricki Angel
