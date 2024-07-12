@@ -4,12 +4,12 @@ Welcome to GradeWiz! 🎓✨
 
 GradeWiz is a simple and intuitive c# application for Windows that compiles as an executable. Designed to help students calculate their module grades based on component weightings and scores. Whether you're managing your coursework, projects, or exams, GradeWiz provides an easy way to determine your overall module mark.
 
-<img src="images/screenshot1.png" style="border: 5px solid #ccc;">
-<img src="images/screenshot2.png" style="border: 5px solid #ccc;">
-<img src="images/screenshot3.png" style="border: 5px solid #ccc;">
-<img src="images/screenshot4.png" style="border: 5px solid #ccc;">
+<img src="images/screenshot1.PNG" style="border: 5px solid #ccc;">
+<img src="images/screenshot2.PNG" style="border: 5px solid #ccc;">
+<img src="images/screenshot3.PNG" style="border: 5px solid #ccc;">
+<img src="images/screenshot4.PNG" style="border: 5px solid #ccc;">
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](images/screenshot1.PNG)
 
 ![Screenshot 1](images/screenshot1.png)
 ![Screenshot 2](images/screenshot2.png)
