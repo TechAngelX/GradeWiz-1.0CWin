@@ -1,0 +1,15 @@
+C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\GradeWiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\GradeWiz.AssemblyInfoInputs.cache
+C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\GradeWiz.AssemblyInfo.cs
+C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\GradeWiz.csproj.CoreCompileInputs.cache
+C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\GradeWiz.sourcelink.json
+c:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\bin\Debug\net8.0-windows\GradeWiz.exe
+C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\bin\Debug\net8.0-windows\GradeWiz.deps.json
+C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\bin\Debug\net8.0-windows\GradeWiz.runtimeconfig.json
+c:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\bin\Debug\net8.0-windows\GradeWiz.dll
+c:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\bin\Debug\net8.0-windows\GradeWiz.pdb
+c:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\GradeWiz.dll
+c:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\refint\GradeWiz.dll
+c:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\GradeWiz.pdb
+C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\GradeWiz.genruntimeconfig.cache
+C:\Users\rmadawho\OneDrive - University College London\TechGits\GradeWiz-C-Sharp-WinVersion\obj\Debug\net8.0-windows\ref\GradeWiz.dll

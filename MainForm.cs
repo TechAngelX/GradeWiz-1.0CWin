@@ -1,3 +1,6 @@
+// GradeWiz
+// A simple app that calculates a final module mark based on component weightings and component marks.
+// Created (c) by Ricki Angel, 2024
 using System;
 using System.Drawing;
 using System.Windows.Forms;
@@ -80,7 +83,7 @@ namespace GradeWiz
        private void ShowAboutDialog()
 {
     MessageBox.Show(
-        "GradeWiz ✔\n\nA simple app that calculates a final module mark based on component weightings and component marks.\n\n© 2024 Ricki Angel\n\n" +
+        "GradeWiz ✔\n\nA simple app that calculates a final module mark based on component weightings and component marks.\n\n© 2024 Ricki Angel\nhttps://github.com/TechGits\n\n" +
         "Licensed under the GNU General Public License v3.0",
         "About GradeWiz",
         MessageBoxButtons.OK,

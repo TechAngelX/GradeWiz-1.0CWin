@@ -4,6 +4,13 @@ Welcome to GradeWiz! 🎓✨
 
 GradeWiz is a simple and intuitive c# application for Windows that compiles as an executable. Designed to help students calculate their module grades based on component weightings and scores. Whether you're managing your coursework, projects, or exams, GradeWiz provides an easy way to determine your overall module mark.
 
+<img src="images/screenshot1.png" style="border: 5px solid #ccc;">
+<img src="images/screenshot2.png" style="border: 5px solid #ccc;">
+<img src="images/screenshot3.png" style="border: 5px solid #ccc;">
+<img src="images/screenshot4.png" style="border: 5px solid #ccc;">
+
+
+
 🚀 Features
 User-Friendly Interface: A sleek Swing-based graphical user interface with a modern look and feel.
 Component Weightings: Input percentage weightings for up to 7 components and ensure they add up to 100%.
@@ -35,7 +42,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/grade-wiz.git
+git clone https://github.com/TechGits/GradeWiz-C-Sharp-WinVersion.git
 Navigate to the Project Directory:
 
 bash
@@ -57,6 +64,7 @@ Swing: Java GUI toolkit used for creating the graphical interface.
 🤝 Contributing
 We welcome contributions from the community! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
+Microsoft.Net Windows Runtime 8.0.303 (x64)
 📄 License
 Licensed under the GNU General Public License v3.0
 

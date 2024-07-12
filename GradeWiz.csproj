@@ -1,7 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+<Project Sdk="Microsoft.NET.Sdk">
+
   <PropertyGroup>
-    <OutputType>WinExe</OutputType>
-    <TargetFramework>net7.0-windows</TargetFramework>
-    <UseWindowsForms>true</UseWindowsForms>
+    <OutputType>WinExe</OutputType> <!-- Specifies that this is a Windows Forms application -->
+    <TargetFramework>net8.0-windows</TargetFramework> <!-- Target .NET 8.0 -->
+    <UseWPF>false</UseWPF> <!-- Ensure WPF is not being used -->
+    <UseWindowsForms>true</UseWindowsForms> <!-- Explicitly enable Windows Forms -->
   </PropertyGroup>
+
 </Project>
