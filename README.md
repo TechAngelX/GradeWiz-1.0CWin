@@ -7,6 +7,9 @@ GradeWiz is a simple and intuitive c# application for Windows that compiles as a
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <div style="flex: 1 1 auto;"><img src="images/screenshot1.jpg" style="border: 7px solid #ccc;"></div>
     <div style="flex: 1 1 auto;"><img src="images/screenshot2.jpg" style="border: 7px solid #ccc;"></div>
+
+</div>
+<div>
     <div style="flex: 1 1 auto;"><img src="images/screenshot3.jpg" style="border: 7px solid #ccc;"></div>
     <div style="flex: 1 1 auto;"><img src="images/screenshot4.jpg" style="border: 7px solid #ccc;"></div>
 </div>
