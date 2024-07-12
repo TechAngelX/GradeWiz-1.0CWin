@@ -69,8 +69,7 @@ Licensed under the GNU General Public License v3.0
 ## 🧑‍💻 Author
 
 **Ricki Angel**  
-Creator of GradeWiz  
-[LinkedIn](https://www.linkedin.com/in/ricki-angel/) | [GitHub](https://github.com/TechAngelX)
+Creator of GradeWiz ✔[LinkedIn](https://www.linkedin.com/in/ricki-angel/) | [GitHub](https://github.com/TechAngelX)
 
 
 ## Note
