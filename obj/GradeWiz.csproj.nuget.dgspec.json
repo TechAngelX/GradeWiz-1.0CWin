@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-C-Sharp-WinVersion\\GradeWiz.csproj": {}
+    "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-1.0CWin\\GradeWiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-C-Sharp-WinVersion\\GradeWiz.csproj": {
+    "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-1.0CWin\\GradeWiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-C-Sharp-WinVersion\\GradeWiz.csproj",
+        "projectUniqueName": "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-1.0CWin\\GradeWiz.csproj",
         "projectName": "GradeWiz",
-        "projectPath": "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-C-Sharp-WinVersion\\GradeWiz.csproj",
+        "projectPath": "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-1.0CWin\\GradeWiz.csproj",
         "packagesPath": "C:\\Users\\rmadawho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-C-Sharp-WinVersion\\obj\\",
+        "outputPath": "C:\\Users\\rmadawho\\OneDrive - University College London\\TechGits\\GradeWiz-1.0CWin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rmadawho\\AppData\\Roaming\\NuGet\\NuGet.Config"
