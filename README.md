@@ -1,4 +1,4 @@
-# GradeWiz ✔ (C# Version / Win)
+# GradeWiz ✔ (C# Version / Win) - Standalone Version (no module textbox data populationg).
 
 Welcome to GradeWiz! 🎓✨
 
